@@ -29,3 +29,4 @@ Its time complexity is O(n)
 So total time complexity in the loop is 
 -> O(n)+O(n)+O(n/2)+O(n)
 ->O(3n/2)
+->O(n)
